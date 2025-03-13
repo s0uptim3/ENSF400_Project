@@ -1,4 +1,4 @@
-BY ODIN FOX, 
+BY Odin Fox, Rodolfo Gil Pereira 
 
 ## Demo - demonstrates an application and tests
 
